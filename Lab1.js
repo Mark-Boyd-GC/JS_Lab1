@@ -1,6 +1,6 @@
 /*
-  Full Name:
-  Student ID:
+  Full Name: Mark Boyd
+  Student ID: 200229245
 
   Instructions:
     Follow the steps below. If you have any questions
